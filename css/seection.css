@@ -1,0 +1,29 @@
+
+tr,th,td{
+    border: 1px solid black;
+    padding: 5px;
+    background-color: rgb(255,203,203)
+}
+
+table{
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+    border-collapse: collapse;
+    text-align: center
+}
+
+th{
+    background-color: hotpink;
+    text-shadow: 4px 6px 4px white
+}
+
+#break{
+    background-color: beige
+    
+}
+
+body{
+    text-align:center;
+    font-family: cursive;
+}
